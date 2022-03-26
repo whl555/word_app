@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TestActivity3">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioGroup
+            android:id="@+id/radio_btn"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+            <RadioButton
+                android:id="@+id/radio_btn_alert"
+                android:text="@string/radio_btn_alert"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radio_btn_date"
+                android:text="@string/radio_btn_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </RadioButton>
+
+            <RadioButton
+                android:id="@+id/radio_btn_time"
+                android:text="@string/radio_btn_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </RadioButton>
+        </RadioGroup>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#000FFF"/>
+
+    <Button
+        android:id="@+id/btn_test3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_test3">
+
+    </Button>
+
+</LinearLayout>

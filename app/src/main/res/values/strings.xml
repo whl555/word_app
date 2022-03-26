@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application-test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_replace">更换fragment</string>
+    <string name="btn_remove">删除fragment</string>
+    <string name="radio_btn_alert">Alert</string>
+    <string name="radio_btn_date">Date</string>
+    <string name="radio_btn_time">Time</string>
+    <string name="btn_test3">启动Dialog</string>
 </resources>
