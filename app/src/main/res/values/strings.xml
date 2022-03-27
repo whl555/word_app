@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EasyWord</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hop">请点击进行跳转</string>
+    <string name="nb">我真厉害！</string>
+    <string name="back">返回</string>
+    <string name="user">用户</string>
+    <string name="write">发布</string>
+    <string name="favo">收藏</string>
 </resources>
