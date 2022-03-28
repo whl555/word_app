@@ -17,9 +17,9 @@ import com.example.easyword.R;
 
 public class WordFragment extends ListFragment {
 
-    //回调接口
+    //定义接口实例
     private onItemClickListener onItemClickListener;
-    //实现接口
+    //定义接口
     public interface onItemClickListener {
         void onItemClick(ListView l, @NonNull View v, int position, long id);
     }

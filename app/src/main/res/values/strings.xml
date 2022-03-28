@@ -8,4 +8,9 @@
     <string name="user">用户</string>
     <string name="write">发布</string>
     <string name="favo">收藏</string>
+    <string name="add">请输入单词!</string>·
+    <string name="btn5">插入</string>·
+    <string name="btn6">更新</string>·
+    <string name="btn8">删除</string>·
+    <string name="btn9">查询</string>·
 </resources>
